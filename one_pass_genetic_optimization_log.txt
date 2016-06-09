@@ -1,0 +1,3 @@
+Start of evolution
+Individual [26, 13, 20, 55, 200]
+Training:
