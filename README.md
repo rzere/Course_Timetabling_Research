@@ -1,2 +1,1 @@
-# Course_Timetabling_Research
-Student-Faculty Collaborative Research Program - Rollins College 2016
+<img src="https://raw.githubusercontent.com/rzere/Course_Timetabling_Research/master/Slide1.png">
